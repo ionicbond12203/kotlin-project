@@ -1,5 +1,5 @@
 fun sayHello(itemToGreet:String){
-    val msg = "Hello "+ itemToGreet
+    val msg = "Hello $itemToGreet"
     println(msg)
 }
 fun main(){
